@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u043B\u044C\u044F \u041F\u043E\u043B\u044F\u043A\u043E\u0432\\source\\repos\\truckersmp-status\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10B7473-78D4-4B3D-AE70-DC6CEDCA00DA}|truckersmp-status\\truckersmp-status.csproj|c:\\users\\\u0438\u043B\u044C\u044F \u043F\u043E\u043B\u044F\u043A\u043E\u0432\\source\\repos\\truckersmp-status\\truckersmp-status\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10B7473-78D4-4B3D-AE70-DC6CEDCA00DA}|truckersmp-status\\truckersmp-status.csproj|solutionrelative:truckersmp-status\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F \u041F\u043E\u043B\u044F\u043A\u043E\u0432\\source\\repos\\truckersmp-status\\truckersmp-status\\Program.cs",
+              "RelativeDocumentMoniker": "truckersmp-status\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F \u041F\u043E\u043B\u044F\u043A\u043E\u0432\\source\\repos\\truckersmp-status\\truckersmp-status\\Program.cs",
+              "RelativeToolTip": "truckersmp-status\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:25:48.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
