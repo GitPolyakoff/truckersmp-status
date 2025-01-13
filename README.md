@@ -43,11 +43,10 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/GitPolyakoff/truckersmp-status.git
-2. Соберите проект в Visual Studio или скачайте готовый исполняемый файл.
-3. Перейдите по пути:
+2. Перейдите по пути:
     ```bash
     ..\truckersmp-status\truckersmp-status\bin\Debug\
-4. Запустите файл `truckersmp-status.exe`.
+3. Запустите файл `truckersmp-status.exe`.
 
 ---
 
